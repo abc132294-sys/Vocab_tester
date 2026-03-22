@@ -6,9 +6,9 @@ If you are wondering how it works (also because it is in german), it is pretty s
 At first you get asked to write down the first vocab. This is the one you should practice and is not in your own language. 
 E.G.: I'm trying to learn Latin and my first language is English, I put in the Latin word "esse".
 
-Afterwards you have to input the translation. In the examples case: Lat.: "esse" -> Eng.: "to be" so I'm inputting "to be".
+Afterwards you have to input the translation. In the example's case: Lat.: "esse" -> Eng.: "to be" so I'm inputting "to be".
 
-This process will be repeated until you wrote down every last vocab. when you get aske the first question again, you input "n".
+This process will be repeated until you wrote down every last vocab. when you get asked the first question again, you input "n".
 
 Now the questioning starts. You will get asked 'Was heißt "esse" ...' (Eng.: 'What does "esse" mean ...'). Now you will have to input the answer. If the answer is correct it shows "Richtig!" (Eng.: "Correct!"). If not it will show the correct answer.
 
